@@ -1,0 +1,8 @@
+C:\Users\NN.accel\Documents\22-23_Term3\Reiz_assign\Reiz_Assign2\Reiz_Assign2\bin\Debug\Reiz_Assign2.exe.config
+C:\Users\NN.accel\Documents\22-23_Term3\Reiz_assign\Reiz_Assign2\Reiz_Assign2\bin\Debug\Reiz_Assign2.exe
+C:\Users\NN.accel\Documents\22-23_Term3\Reiz_assign\Reiz_Assign2\Reiz_Assign2\bin\Debug\Reiz_Assign2.pdb
+C:\Users\NN.accel\Documents\22-23_Term3\Reiz_assign\Reiz_Assign2\Reiz_Assign2\obj\Debug\Reiz_Assign2.csproj.AssemblyReference.cache
+C:\Users\NN.accel\Documents\22-23_Term3\Reiz_assign\Reiz_Assign2\Reiz_Assign2\obj\Debug\Reiz_Assign2.csproj.SuggestedBindingRedirects.cache
+C:\Users\NN.accel\Documents\22-23_Term3\Reiz_assign\Reiz_Assign2\Reiz_Assign2\obj\Debug\Reiz_Assign2.csproj.CoreCompileInputs.cache
+C:\Users\NN.accel\Documents\22-23_Term3\Reiz_assign\Reiz_Assign2\Reiz_Assign2\obj\Debug\Reiz_Assign2.exe
+C:\Users\NN.accel\Documents\22-23_Term3\Reiz_assign\Reiz_Assign2\Reiz_Assign2\obj\Debug\Reiz_Assign2.pdb
